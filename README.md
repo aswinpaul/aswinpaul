@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on topics like reinforcement learning, Bayesian agents, active inference, CRNs etc.
 - 📫 How to reach me: aswin.paul@monash.edu
 - :sparkles: Google Scholar: [link to profile](https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra).
+- :sparkles: ORCID: [link to profile](https://orcid.org/0000-0002-8559-4711).
 - :sparkles: LinkedIn: [link to profile](https://www.linkedin.com/in/aswinpaul/).
 - :sparkles: Twitter profile: [link to profile](https://twitter.com/aswinpaule).
 
