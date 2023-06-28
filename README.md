@@ -16,7 +16,7 @@ Preprints:
 
 Experience:
 
-1. Pymdp fellow (Northwestern University): [Fellowship page](https://brennanklein.com/pymdp)
+1. Pymdp fellow (Northeastern University, University): [Fellowship page](https://brennanklein.com/pymdp)
 2. Data Officer (Monash University): [Data fluency Monash](https://www.monash.edu/data-fluency/home)
 
 Honours/Awards:
