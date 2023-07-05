@@ -12,7 +12,7 @@ Publications:
 1. Paul, A., Sajid, N., Gopalkrishnan, M., Razi, A. (2021). Active Inference for Stochastic Control. In: , et al. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. ECML PKDD 2021. Communications in Computer and Information Science, vol 1524. Springer, Cham. https://doi.org/10.1007/978-3-030-93736-2_47
 
 Preprints:
-1. coming soon
+1. Paul, A., Sajid, N., Da Costa, L., & Razi, A. (2023). On efficient computation in active inference. ArXiv. [/abs/2307.00504](https://arxiv.org/abs/2307.00504)
 
 Experience:
 
