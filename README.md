@@ -14,6 +14,8 @@ Publications:
 Preprints:
 1. Paul, A., Sajid, N., Da Costa, L., & Razi, A. (2023). On efficient computation in active inference. ArXiv. https://arxiv.org/abs/2307.00504
 
+Talk at Active inference institute: On efficient computation in active inference: https://www.youtube.com/watch?v=CEKWhxnH3-E
+
 Experience:
 
 1. Pymdp fellow (Northeastern University, University): [Fellowship page](https://brennanklein.com/pymdp)
