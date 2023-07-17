@@ -23,5 +23,4 @@ Honours/Awards:
 
 1. Tata Chemicals Best Conference Paper Award 2022: Awarded to the best conference published in the year 2020-2021 by PhD candidates at IITB-Monash Research Academy, Mumbai, India.
 2. Institute Medal 2019: For securing the highest CGPA in the MSc Physics program, 2017-2019 batch, Department of Physics, VNIT Nagpur, India.
-3. Academic Excellence Award 2019: For scoring the highest CGPA in MSc. Physics program, batch: 2017-2019, Department of Physics, VNIT
-4. Nagpur, India.
+3. Academic Excellence Award 2019: For scoring the highest CGPA in MSc. Physics program, batch: 2017-2019, Department of Physics, VNIT Nagpur, India.
