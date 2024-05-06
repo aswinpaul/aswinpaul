@@ -14,6 +14,7 @@ Publications:
 Preprints:
 1. Paul, A., Sajid, N., Da Costa, L., & Razi, A. (2023). On efficient computation in active inference. ArXiv. [link](https://arxiv.org/abs/2307.00504).
 2. Friston, K. J., Salvatori, T., Isomura, T., Tschantz, A., Kiefer, A., Verbelen, T., Koudahl, M., Paul, A., Parr, T., Razi, A., Kagan, B., Buckley, C. L., & Ramstead, M. J. (2023). Active Inference and Intentional Behaviour. ArXiv. [/abs/2312.07547](https://arxiv.org/abs/2312.07547)
+3. Paul, A., Isomura, T., & Razi, A. (2024). On Predictive planning and counterfactual learning in active inference. [link](https://arxiv.org/abs/2403.12417).
 
 Talk at Active Inference Institute: On efficient computation in active inference: [link](https://www.youtube.com/watch?v=CEKWhxnH3-E).
 
