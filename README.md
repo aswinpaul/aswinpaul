@@ -5,7 +5,7 @@
 - Thesis title: Towards computationally efficient and explainable active inference.
 - PhD thesis supervisor (Monash): [Prof Adeel Razi](https://research.monash.edu/en/persons/adeel-razi).
 - Current Employment:
-- Currently, I work with [VERSES AI](https://www.verses.ai/) as a Machine learning researcher with [Prof Christopher Buckley](https://profiles.sussex.ac.uk/p108674-christopher-buckley) and team.
+- Currently, I work with [VERSES AI](https://www.verses.ai/) as a machine learning researcher with [Prof Christopher Buckley](https://profiles.sussex.ac.uk/p108674-christopher-buckley) and team.
 - Contact:
 - 📫 How to reach me: aswinpaule[at]gmail.com.
 - :sparkles: Google Scholar: [link to profile](https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra).
