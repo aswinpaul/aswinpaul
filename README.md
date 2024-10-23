@@ -1,17 +1,18 @@
 - 👋 Hi, I’m @aswinpaul
 - I’m interested in brain-inspired algorithms for machine learning.
-- Education:
+- :sparkles: Education:
 - I am a physicist by training and completed my PhD jointly from IIT Bombay and Monash University in October 2024.
 - Thesis title: Towards computationally efficient and explainable active inference.
 - PhD thesis supervisor (Monash): [Prof Adeel Razi](https://research.monash.edu/en/persons/adeel-razi).
-- Current Employment:
+- PhD thesis supervisor (IITB): [Prof Manoj Gopalkrishnan](https://www.mathgenealogy.org/id.php?id=130538).
+- :sparkles: Current Employment:
 - Currently, I work with [VERSES AI](https://www.verses.ai/) as a machine learning researcher with [Prof Christopher Buckley](https://profiles.sussex.ac.uk/p108674-christopher-buckley) and team.
-- Contact:
+- :sparkles: Contact:
 - 📫 How to reach me: aswinpaule[at]gmail.com.
-- :sparkles: Google Scholar: [link to profile](https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra).
-- :sparkles: ORCID: [link to profile](https://orcid.org/0000-0002-8559-4711).
-- :sparkles: LinkedIn: [link to profile](https://www.linkedin.com/in/aswinpaul/).
-- :sparkles: Twitter profile: [link to profile](https://twitter.com/aswinpaule).
+- Google Scholar: [link to profile](https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra).
+- ORCID: [link to profile](https://orcid.org/0000-0002-8559-4711).
+- LinkedIn: [link to profile](https://www.linkedin.com/in/aswinpaul/).
+- Twitter profile: [link to profile](https://twitter.com/aswinpaule).
 
 Publications:
 1. Paul, A., Sajid, N., Da Costa, L., & Razi, A. (2024). On efficient computation in active inference. Expert Systems With Applications, 253, 124315. [link](https://doi.org/10.1016/j.eswa.2024.124315).
