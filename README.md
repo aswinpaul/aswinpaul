@@ -1,15 +1,12 @@
-👋 Hi, I’m @aswinpaul
-I’m interested in brain-inspired algorithms for machine learning.
-
+- :sparkles: Hello there. I am Aswin Paul.
+- I am a physicist turned researcher currently interested in brain-inspired algorithms for machine learning.
 - :sparkles: Education:
 - I am a physicist by training and completed my PhD jointly from IIT Bombay and Monash University in October 2024.
 - Thesis title: Towards computationally efficient and explainable active inference.
 - PhD thesis supervisor (Monash): [Prof Adeel Razi](https://research.monash.edu/en/persons/adeel-razi).
 - PhD thesis supervisor (IITB): [Prof Manoj Gopalkrishnan](https://www.mathgenealogy.org/id.php?id=130538).
-
 - :sparkles: Current Employment:
 - Currently, I work with [VERSES AI](https://www.verses.ai/) as a machine learning researcher with [Prof Christopher Buckley](https://profiles.sussex.ac.uk/p108674-christopher-buckley) and team.
-
 - :sparkles: Contact:
 - 📫 How to reach me: aswinpaule[at]gmail.com.
 - Google Scholar: [link to profile](https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra).
