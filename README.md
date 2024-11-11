@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aswinpaul
 - I’m interested in brain-inspired algorithms for machine learning.
+
 - :sparkles: Education:
 - I am a physicist by training and completed my PhD jointly from IIT Bombay and Monash University in October 2024.
 - Thesis title: Towards computationally efficient and explainable active inference.
@@ -19,7 +20,7 @@ Publications:
 2. Paul, A., Isomura, T., & Razi, A. (2024). On Predictive Planning and Counterfactual Learning in Active Inference. Entropy, 26(6), 484. [link](https://doi.org/10.3390/e26060484).
 3. Paul, A., Sajid, N., Gopalkrishnan, M., Razi, A. (2021). Active Inference for Stochastic Control. In: et al. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. ECML PKDD 2021. Communications in Computer and Information Science, vol 1524. Springer, Cham. [link](https://doi.org/10.1007/978-3-030-93736-2_47)
 
-Preprints:
+Preprints Under Review:
 1. Friston, K. J., Salvatori, T., Isomura, T., Tschantz, A., Kiefer, A., Verbelen, T., Koudahl, M., Paul, A., Parr, T., Razi, A., Kagan, B., Buckley, C. L., & Ramstead, M. J. (2023). Active Inference and Intentional Behaviour. ArXiv. [/abs/2312.07547](https://arxiv.org/abs/2312.07547)
 2. Khajehnejad, M., Habibollahi, F., Paul, A., Razi, A., & Kagan, B. J. (2024). Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld. ArXiv. [/abs/2405.16946](https://arxiv.org/abs/2405.16946)
 
