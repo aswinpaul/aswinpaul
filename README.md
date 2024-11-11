@@ -1,7 +1,8 @@
 - :sparkles: Hello there. I am Aswin Paul.
 - I am a physicist turned researcher currently interested in brain-inspired algorithms for machine learning.
 - :sparkles: Education:
-- I am a physicist by training and completed my PhD jointly from IIT Bombay and Monash University in October 2024.
+- I completed my undergraduate and postgraduate studies in physics at Delhi University and VNIT Nagpur, respectively.
+- I completed my PhD jointly from IIT Bombay India and Monash University Australia in October 2024.
 - Thesis title: Towards computationally efficient and explainable active inference.
 - PhD thesis supervisor (Monash): [Prof Adeel Razi](https://research.monash.edu/en/persons/adeel-razi).
 - PhD thesis supervisor (IITB): [Prof Manoj Gopalkrishnan](https://www.mathgenealogy.org/id.php?id=130538).
