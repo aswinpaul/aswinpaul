@@ -16,13 +16,11 @@
 - Twitter profile: [link to profile](https://twitter.com/aswinpaule).
 
 Publications:
-1. Paul, A., Sajid, N., Da Costa, L., & Razi, A. (2024). On efficient computation in active inference. Expert Systems With Applications, 253, 124315. [link](https://doi.org/10.1016/j.eswa.2024.124315).
-2. Paul, A., Isomura, T., & Razi, A. (2024). On Predictive Planning and Counterfactual Learning in Active Inference. Entropy, 26(6), 484. [link](https://doi.org/10.3390/e26060484).
-3. Paul, A., Sajid, N., Gopalkrishnan, M., Razi, A. (2021). Active Inference for Stochastic Control. In: et al. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. ECML PKDD 2021. Communications in Computer and Information Science, vol 1524. Springer, Cham. [link](https://doi.org/10.1007/978-3-030-93736-2_47)
-
-Preprints Under Review:
-1. Friston, K. J., Salvatori, T., Isomura, T., Tschantz, A., Kiefer, A., Verbelen, T., Koudahl, M., Paul, A., Parr, T., Razi, A., Kagan, B., Buckley, C. L., & Ramstead, M. J. (2023). Active Inference and Intentional Behaviour. ArXiv. [/abs/2312.07547](https://arxiv.org/abs/2312.07547)
-2. Khajehnejad, M., Habibollahi, F., Paul, A., Razi, A., & Kagan, B. J. (2024). Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld. ArXiv. [/abs/2405.16946](https://arxiv.org/abs/2405.16946)
+1. Paul, A., Sajid, N., Da Costa, L., & Razi, A. (2024). On efficient computation in active inference. Expert Systems With Applications, 253, 124315. [Link](https://doi.org/10.1016/j.eswa.2024.124315).
+2. Paul, A., Isomura, T., & Razi, A. (2024). On Predictive Planning and Counterfactual Learning in Active Inference. Entropy, 26(6), 484. [Link](https://doi.org/10.3390/e26060484).
+3. Paul, A., Sajid, N., Gopalkrishnan, M., Razi, A. (2021). Active Inference for Stochastic Control. In: et al. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. ECML PKDD 2021. Communications in Computer and Information Science, vol 1524. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-93736-2_47).
+4. Friston, K. J., Salvatori, T., Isomura, T., Tschantz, A., Kiefer, A., Verbelen, T., Koudahl, M., Paul, A., Parr, T., Razi, A., Kagan, B., Buckley, C. L., & Ramstead, M. J. (2023). Active Inference and Intentional Behaviour, Neural Computation. [Link](https://direct.mit.edu/neco/article-abstract/37/4/666/128203/Active-Inference-and-Intentional-Behavior?redirectedFrom=fulltext).
+5. Khajehnejad, M., Habibollahi, F., Paul, A., Razi, A., & Kagan, B. J. (2024). Dynamic Network Plasticity and Sample Efficiency in Neural Cultures: A Comparison with Deep Learning, CYBORG AND BIONIC SYSTEMS. [Link](https://spj.science.org/doi/10.34133/cbsystems.0336).
 
 Talk at Active Inference Institute: On efficient computation in active inference: [link](https://www.youtube.com/watch?v=CEKWhxnH3-E).
 
