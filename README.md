@@ -8,7 +8,8 @@
 - PhD thesis supervisor (Monash): [Prof Adeel Razi](https://research.monash.edu/en/persons/adeel-razi).
 - PhD thesis supervisor (IITB): [Prof Manoj Gopalkrishnan](https://www.mathgenealogy.org/id.php?id=130538).
 # :sparkles: Current Employment:
-- Currently, I work with [VERSES AI](https://www.verses.ai/) as a machine learning researcher with [Prof Christopher Buckley](https://profiles.sussex.ac.uk/p108674-christopher-buckley) and team.
+- Currently, I am working as a postdoctoral researcher at the [CN Lab](https://comp-neuro.github.io), Monash University, Melbourne.
+- Previously, I worked with [VERSES AI](https://www.verses.ai/) as a machine learning researcher with [Prof Christopher Buckley](https://profiles.sussex.ac.uk/p108674-christopher-buckley) and team.
 # :sparkles: Contact:
 - 📫 How to reach me: aswinpaule[at]gmail.com.
 - Google Scholar: [link to profile](https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra).
