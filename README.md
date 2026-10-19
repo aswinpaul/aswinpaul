@@ -1,15 +1,17 @@
 # :sparkles: Bio:
 - Hello there. I am Aswin Paul. :)
 - I am a physicist turned researcher currently interested in brain-inspired algorithms for machine learning.
+  
 # :sparkles: Education:
 - I completed my undergraduate and postgraduate studies in physics at Delhi University and VNIT Nagpur, respectively.
 - I completed my PhD jointly from IIT Bombay India and Monash University Australia in October 2024.
 - Thesis title: Towards computationally efficient and explainable active inference.
 - PhD thesis supervisor (Monash): [Prof Adeel Razi](https://research.monash.edu/en/persons/adeel-razi).
 - PhD thesis supervisor (IITB): [Prof Manoj Gopalkrishnan](https://www.mathgenealogy.org/id.php?id=130538).
-# :sparkles: Current Employment:
+  
+# :sparkles: Employment:
 - Currently, I am working as a postdoctoral researcher at the [CN Lab](https://comp-neuro.github.io), Monash University, Melbourne.
-- Previously, I worked with [VERSES AI](https://www.verses.ai/) as a machine learning researcher with [Prof Christopher Buckley](https://profiles.sussex.ac.uk/p108674-christopher-buckley) and team.
+  
 # :sparkles: Contact:
 - 📫 How to reach me: aswinpaule[at]gmail.com.
 - Google Scholar: [link to profile](https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra).
@@ -25,12 +27,11 @@
 5. Khajehnejad, M., Habibollahi, F., Paul, A., Razi, A., & Kagan, B. J. (2024). Dynamic Network Plasticity and Sample Efficiency in Neural Cultures: A Comparison with Deep Learning, CYBORG AND BIONIC SYSTEMS. [Link](https://spj.science.org/doi/10.34133/cbsystems.0336).
 
 # :sparkles: Work Experience:
-
 1. Pymdp fellow (Northeastern University, University): [Fellowship page](https://brennanklein.com/pymdp)
 2. Data Officer (Monash University): [Data fluency Monash](https://www.monash.edu/data-fluency/home)
+3. ML Reseacher (VERSES AI, USA)
 
 # :sparkles: Honours/Awards/Talks:
-
 1. Tata Chemicals Best Conference Paper Award 2022: Awarded to the best conference published in the year 2020-2021 by PhD candidates at IITB-Monash Research Academy, Mumbai, India.
 2. Institute Medal 2019: For securing the highest CGPA in the MSc Physics program, 2017-2019 batch, Department of Physics, VNIT Nagpur, India.
 3. Academic Excellence Award 2019: For scoring the highest CGPA in MSc. Physics program, batch: 2017-2019, Department of Physics, VNIT Nagpur, India.
